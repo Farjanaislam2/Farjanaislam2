@@ -45,18 +45,6 @@ I'm Farjana Islam a Full Stack Web Developer.I Spend most of time coding outstan
 - :Portfolio: [My Portfolio](https://farjana2.netlify.app/)
 
 
-#### Profile Visits 
-
-![visitors](https://drive.google.com/file/d/1b-XsutqV9lcIYxGioGeW-yE8vipUJG2V/view?usp=share_link)
-
-<summary>
-  More about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, And I develop MERN-Stack site!!
-
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
