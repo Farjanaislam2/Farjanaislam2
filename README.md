@@ -12,6 +12,7 @@ I'm Farjana Islam a Full Stack Web Developer.I Spend most of time coding outstan
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: farjanaanika2@gmail.com
+
 -⚡ Fun fact I love coding and creating awesome websites
 
 #### Top Technologies
