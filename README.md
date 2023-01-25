@@ -4,7 +4,7 @@ I'm Farjana Islam a Full Stack Web Developer.I Spend most of time coding outstan
 
 :mailbox: Reach me out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Farjana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-islam-anika/) [![Mail Badge](https://img.shields.io/badge/-@ShahriarShubho-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://shahriar-shubho.netlify.app) [![Mail Badge](https://img.shields.io/badge/-shubho-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Farjana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-islam-anika/) [![Mail Badge](https://img.shields.io/badge/-@Farjana-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://farjana2.netlify.app/) [![Mail Badge](https://img.shields.io/badge/-farjana-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:farjanaanika2@gmail.com)
 
 <!-- TODO: Add last video link -->
 
