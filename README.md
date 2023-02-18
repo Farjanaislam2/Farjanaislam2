@@ -41,7 +41,7 @@ I'm Farjana Islam a Full Stack Web Developer.I Spend most of time coding outstan
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1cTfIG1nqH7-_jLRl1myFeh-35cIgswnI/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1b-XsutqV9lcIYxGioGeW-yE8vipUJG2V/view?usp=sharing)
 - :email: farjanaanika2@gmail.com
 - :Portfolio: [My Portfolio](https://farjana2.netlify.app/)
 
